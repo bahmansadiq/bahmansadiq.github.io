@@ -1,0 +1,39 @@
+body{
+	background: #E8E8E8;
+	
+}
+.first-para{
+	font-size: 30px;
+	 font-family: georgia;
+	 text-shadow:5px 10px 10px ;
+	color: #888888 ;
+	margin: 20px;
+	text-align: center;
+	width: 90%;
+}
+#contact-table{
+	border: 5px;
+	border-style: solid;
+	padding: 20px;
+	border-color: gray;
+}
+footer{
+	text-align: center;
+}
+#background-image{
+	background-image: url("IT-web-development.jpg");
+	width:100%;
+	height:40px;
+	color: white;
+	text-align: center;
+}
+.main-fieldset{
+border: gray 3px solid;
+width: 90%;
+}
+a{
+	color: rgb(255,0,0);
+}
+marquee{
+	color: #00FF66;
+}
