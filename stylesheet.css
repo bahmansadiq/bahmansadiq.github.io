@@ -21,10 +21,9 @@ footer{
 	text-align: center;
 }
 #background-image{
-	background-image: url("IT-web-development.jpg");
+	background-image: url("homepage.jpg");
 	width:100%;
-	height:40px;
-	color: white;
+	height:90px;
 	text-align: center;
 }
 .main-fieldset{
